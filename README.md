@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaodos3v" alt="joaodos3v" /></a> </p>
 
-- 🔭 Eu trabalho atualmente na [CompassoUOL](https://compassouol.com/)
+- 🔭 Eu trabalho atualmente no [Grupo PRIMO](https://www.oprimorico.com.br/)
 
 - 🌱 Atualmente eu estou focando meus estudos em **Front End (especificamente HTML, CSS, JavaScript e React.js)**
 
