@@ -1,17 +1,18 @@
-<h1 align="center">Olá 👋, Eu sou o João Vitor Veronese Vieira</h1>
-<h3 align="center">Um desenvolvedor de software natural de Erechim-RS/Brasil.</h3>
+<h1 align="center">Hi 👋, I'm João Vitor Veronese Vieira</h1>
+<h3 align="center">A software developer based in Barueri-SP/Brazil.</h3>
+<p align="center">I am a web development specialist focusing on Javascript and proficiency in its ecosystem tools. I aim to create scalable and easily maintainable applications with unit tests and comprehensive documentation. I have the ability to gather technical requirements for a task and assist the product team in prioritizing features. I am passionate about standards, best practices, and software quality, and I am constantly learning and striving to stay updated with the latest industry tools.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaodos3v&label=Profile%20views&color=0e75b6&style=flat" alt="joaodos3v" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaodos3v" alt="joaodos3v" /></a> </p>
 
-- 🔭 Eu trabalho atualmente no [Grupo PRIMO](https://www.oprimorico.com.br/)
+- 🔭 I currently work at [Grupo PRIMO](https://www.oprimorico.com.br/)
 
-- 🌱 Atualmente eu estou focando meus estudos em **Front End (especificamente HTML, CSS, JavaScript e React.js)**
+- 🌱 Currently, I am focusing my studies on **Front End (JavaScript and TypeScript)** and **Application Design (Hexagonal Architecture)**.
 
-- 💬 Pergunte-me sobre **qualquer coisa (se eu não souber, quero aprender junto ^^)**
+- 💬 Ask me about anything **(if I don't know, I want to learn together ^.^)**
 
-- 📫 Me encontre neste e-mail **joaovitorvv@gmail.com**
+- 📫 Find me in this email: **joaovitorvv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
