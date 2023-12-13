@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaodos3v&label=Profile%20views&color=0e75b6&style=flat" alt="joaodos3v" /> </p>
 
-- 🔭 I currently work at [Grupo PRIMO](https://www.oprimorico.com.br/)
+- 🔭 I currently work at [Serena Energy](https://srna.co/)
 
-- 🌱 Currently, I am focusing my studies on **Front End (JavaScript and TypeScript)** and **Application Design (Hexagonal Architecture)**.
+- 🌱 Currently, I am focusing my studies on **Front End (Next, JavaScript and TypeScript)** and **Application Design (Hexagonal Architecture)**.
 
 - 💬 Ask me about anything **(if I don't know, I want to learn together ^.^)**
 
