@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaodos3v&label=Profile%20views&color=0e75b6&style=flat" alt="joaodos3v" /> </p>
 
-- 🔭 I currently work at [Serena Energy](https://srna.co/)
+- 🔭 I currently work at [Nursa](https://nursa.com/)
 
 - 🌱 Currently, I am focusing my studies on **Front End (Next, JavaScript and TypeScript)** and **Application Design (Hexagonal Architecture)**.
 
